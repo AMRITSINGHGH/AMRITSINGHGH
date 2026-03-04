@@ -1,12 +1,1 @@
-- 👋 Hi, I’m AMRIT SINGH
-- 👀 I’m interested in Rust,C,JS,HTML,CSS,
-- 🌱 I’m currently learning Rust ad system design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-AMRITSINGHGH/AMRITSINGHGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Amrit Singh. I am from India, Haryana passionate about building and learning things related to tech. Currently working projects related to- Frontend dev Rust C++ and some basic to advanced os projects somewhat.The tools i use for making proejcts are vs code, somewhat help of ai , fans of books and little bit help from youtube. To reach me follow my linkedin profile or emal- amritsingh75292@gmail.com
